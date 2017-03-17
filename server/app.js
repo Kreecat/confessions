@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 //main variables for the page to show
 var express = require('express'),
     app = express(),

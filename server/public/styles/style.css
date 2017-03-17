@@ -335,6 +335,7 @@ textarea {
   margin-top: 17vh;
 }
 .postBtn {
+  float: right;
   margin-top: 10px;
 }
 .postBtn,
