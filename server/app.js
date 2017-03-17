@@ -1,6 +1,7 @@
 require('dotenv').config();
 
 //main variables for the page to show
+require('dotenv').config()
 var express = require('express'),
     app = express(),
     server = require('http').createServer(app);
